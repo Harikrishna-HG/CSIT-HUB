@@ -1,0 +1,76 @@
+{
+  "updates": [
+    {
+      "id": 1,
+      "title": "Revised Syllabus for BSc.CSIT - Academic Year 2025",
+      "date": "2025-10-15",
+      "category": "Syllabus Update",
+      "description": "The Central Department of CSIT has released the revised syllabus for BSc.CSIT program effective from Academic Year 2025. Major updates include addition of AI/ML courses and modern web frameworks.",
+      "link": "#",
+      "isPinned": true
+    },
+    {
+      "id": 2,
+      "title": "Admission Open for MSc.CSIT 2025 Batch",
+      "date": "2025-10-10",
+      "category": "Admission",
+      "description": "Applications are now open for MSc.CSIT program for the academic year 2025. Interested candidates can apply through the university portal before November 15, 2025.",
+      "link": "https://cdcsit.fwu.edu.np/",
+      "isPinned": true
+    },
+    {
+      "id": 3,
+      "title": "Workshop on Machine Learning - November 2025",
+      "date": "2025-10-05",
+      "category": "Event",
+      "description": "Department is organizing a 3-day workshop on Machine Learning and Deep Learning from November 20-22, 2025. All students are encouraged to participate.",
+      "link": "#",
+      "isPinned": false
+    },
+    {
+      "id": 4,
+      "title": "Examination Schedule for Semester End Exams",
+      "date": "2025-09-28",
+      "category": "Examination",
+      "description": "The examination schedule for all programs has been published. Students can download the routine from the department notice board or university website.",
+      "link": "#",
+      "isPinned": false
+    },
+    {
+      "id": 5,
+      "title": "New Computer Lab Inauguration",
+      "date": "2025-09-20",
+      "category": "Infrastructure",
+      "description": "The department has inaugurated a new state-of-the-art computer lab equipped with latest hardware and software for students' practical learning.",
+      "link": "#",
+      "isPinned": false
+    },
+    {
+      "id": 6,
+      "title": "Research Paper Publication Guidelines",
+      "date": "2025-09-15",
+      "category": "Research",
+      "description": "Guidelines for MSc.CSIT students regarding research paper publication and thesis submission have been updated. Please check the department website for details.",
+      "link": "#",
+      "isPinned": false
+    },
+    {
+      "id": 7,
+      "title": "Industry Visit to Tech Companies - Kathmandu",
+      "date": "2025-09-10",
+      "category": "Event",
+      "description": "Department is organizing an industry visit for final year students to leading tech companies in Kathmandu. Registration deadline: September 25, 2025.",
+      "link": "#",
+      "isPinned": false
+    },
+    {
+      "id": 8,
+      "title": "BIT Program Curriculum Update",
+      "date": "2025-09-05",
+      "category": "Syllabus Update",
+      "description": "Minor updates have been made to the BIT program curriculum, focusing on practical aspects of cloud computing and DevOps practices.",
+      "link": "#",
+      "isPinned": false
+    }
+  ]
+}

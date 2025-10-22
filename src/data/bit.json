@@ -1,0 +1,112 @@
+{
+  "program": "BIT",
+  "fullName": "Bachelor in Information Technology",
+  "description": "BIT is a four-year undergraduate program designed to produce skilled IT professionals with expertise in software development, networking, and information systems management.",
+  "duration": "4 years (8 semesters)",
+  "totalCredits": 126,
+  "semesters": [
+    {
+      "id": 1,
+      "name": "First Semester",
+      "subjects": [
+        { "code": "BIT101", "name": "Introduction to Information Technology", "credit": 3 },
+        { "code": "BIT102", "name": "Programming in C", "credit": 3 },
+        { "code": "BIT103", "name": "Digital Logic", "credit": 3 },
+        { "code": "BIT104", "name": "Mathematics I", "credit": 3 },
+        { "code": "BIT105", "name": "English I", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem1.pdf"
+    },
+    {
+      "id": 2,
+      "name": "Second Semester",
+      "subjects": [
+        { "code": "BIT201", "name": "Discrete Mathematics", "credit": 3 },
+        { "code": "BIT202", "name": "Object Oriented Programming with C++", "credit": 3 },
+        { "code": "BIT203", "name": "Data Communication", "credit": 3 },
+        { "code": "BIT204", "name": "Mathematics II", "credit": 3 },
+        { "code": "BIT205", "name": "English II", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem2.pdf"
+    },
+    {
+      "id": 3,
+      "name": "Third Semester",
+      "subjects": [
+        { "code": "BIT301", "name": "Data Structures and Algorithms", "credit": 3 },
+        { "code": "BIT302", "name": "Probability and Statistics", "credit": 3 },
+        { "code": "BIT303", "name": "System Analysis and Design", "credit": 3 },
+        { "code": "BIT304", "name": "Microprocessor and Computer Architecture", "credit": 3 },
+        { "code": "BIT305", "name": "Web Technology I", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem3.pdf"
+    },
+    {
+      "id": 4,
+      "name": "Fourth Semester",
+      "subjects": [
+        { "code": "BIT401", "name": "Operating System", "credit": 3 },
+        { "code": "BIT402", "name": "Database Management System", "credit": 3 },
+        { "code": "BIT403", "name": "Principles of Management", "credit": 3 },
+        { "code": "BIT404", "name": "Computer Networks", "credit": 3 },
+        { "code": "BIT405", "name": "Numerical Methods", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem4.pdf"
+    },
+    {
+      "id": 5,
+      "name": "Fifth Semester",
+      "subjects": [
+        { "code": "BIT501", "name": "Software Engineering", "credit": 3 },
+        { "code": "BIT502", "name": "Artificial Intelligence", "credit": 3 },
+        { "code": "BIT503", "name": "Web Technology II", "credit": 3 },
+        { "code": "BIT504", "name": "Network Administration", "credit": 3 },
+        { "code": "BIT505", "name": "Elective I", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem5.pdf"
+    },
+    {
+      "id": 6,
+      "name": "Sixth Semester",
+      "subjects": [
+        { "code": "BIT601", "name": "Advanced Database Management System", "credit": 3 },
+        { "code": "BIT602", "name": "Mobile Application Development", "credit": 3 },
+        { "code": "BIT603", "name": "Network Security", "credit": 3 },
+        { "code": "BIT604", "name": "Information System", "credit": 3 },
+        { "code": "BIT605", "name": "Elective II", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem6.pdf"
+    },
+    {
+      "id": 7,
+      "name": "Seventh Semester",
+      "subjects": [
+        { "code": "BIT701", "name": "E-Governance", "credit": 3 },
+        { "code": "BIT702", "name": "Distributed Systems", "credit": 3 },
+        { "code": "BIT703", "name": "Applied Economics", "credit": 3 },
+        { "code": "BIT704", "name": "Project I", "credit": 3 },
+        { "code": "BIT705", "name": "Elective III", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem7.pdf"
+    },
+    {
+      "id": 8,
+      "name": "Eighth Semester",
+      "subjects": [
+        { "code": "BIT801", "name": "Professional Practices", "credit": 3 },
+        { "code": "BIT802", "name": "Cloud Computing", "credit": 3 },
+        { "code": "BIT803", "name": "Cyber Law and Ethics", "credit": 3 },
+        { "code": "BIT804", "name": "Project II", "credit": 6 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/bit-sem8.pdf"
+    }
+  ]
+}

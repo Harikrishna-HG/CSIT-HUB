@@ -1,0 +1,67 @@
+{
+  "program": "MSc.CSIT",
+  "fullName": "Master of Science in Computer Science and Information Technology",
+  "description": "MSc.CSIT is a two-year postgraduate program that focuses on advanced topics in computer science, including machine learning, advanced algorithms, distributed computing, and research methodologies.",
+  "duration": "2 years (4 semesters)",
+  "totalCredits": 60,
+  "semesters": [
+    {
+      "id": 1,
+      "name": "First Semester",
+      "subjects": [
+        { "code": "MSC601", "name": "Advanced Database Systems", "credit": 3 },
+        { "code": "MSC602", "name": "Advanced Computer Architecture", "credit": 3 },
+        { "code": "MSC603", "name": "Advanced Operating Systems", "credit": 3 },
+        { "code": "MSC604", "name": "Research Methodology", "credit": 3 },
+        { "code": "MSC605", "name": "Elective I", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/msc-csit-sem1.pdf"
+    },
+    {
+      "id": 2,
+      "name": "Second Semester",
+      "subjects": [
+        { "code": "MSC651", "name": "Advanced Algorithms", "credit": 3 },
+        { "code": "MSC652", "name": "Machine Learning", "credit": 3 },
+        { "code": "MSC653", "name": "Distributed Systems", "credit": 3 },
+        { "code": "MSC654", "name": "Information Security", "credit": 3 },
+        { "code": "MSC655", "name": "Elective II", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/msc-csit-sem2.pdf"
+    },
+    {
+      "id": 3,
+      "name": "Third Semester",
+      "subjects": [
+        { "code": "MSC701", "name": "Deep Learning", "credit": 3 },
+        { "code": "MSC702", "name": "Cloud Computing and Virtualization", "credit": 3 },
+        { "code": "MSC703", "name": "Big Data Analytics", "credit": 3 },
+        { "code": "MSC704", "name": "Natural Language Processing", "credit": 3 },
+        { "code": "MSC705", "name": "Elective III", "credit": 3 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/msc-csit-sem3.pdf"
+    },
+    {
+      "id": 4,
+      "name": "Fourth Semester",
+      "subjects": [
+        { "code": "MSC751", "name": "Thesis", "credit": 15 }
+      ],
+      "totalCredits": 15,
+      "downloadLink": "/syllabi/msc-csit-sem4.pdf"
+    }
+  ],
+  "electives": [
+    "Advanced Computer Graphics",
+    "Blockchain Technology",
+    "Internet of Things",
+    "Quantum Computing",
+    "Advanced Software Engineering",
+    "Computer Vision",
+    "Bioinformatics",
+    "Advanced Network Security"
+  ]
+}
