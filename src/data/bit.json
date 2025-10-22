@@ -16,7 +16,7 @@
         { "code": "BIT105", "name": "English I", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem1.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 2,
@@ -29,7 +29,7 @@
         { "code": "BIT205", "name": "English II", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem2.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 3,
@@ -42,7 +42,7 @@
         { "code": "BIT305", "name": "Web Technology I", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem3.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 4,
@@ -55,7 +55,7 @@
         { "code": "BIT405", "name": "Numerical Methods", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem4.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 5,
@@ -68,7 +68,7 @@
         { "code": "BIT505", "name": "Elective I", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem5.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 6,
@@ -81,7 +81,7 @@
         { "code": "BIT605", "name": "Elective II", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem6.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 7,
@@ -94,7 +94,7 @@
         { "code": "BIT705", "name": "Elective III", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem7.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 8,
@@ -106,7 +106,7 @@
         { "code": "BIT804", "name": "Project II", "credit": 6 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bit-sem8.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     }
   ]
 }

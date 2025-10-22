@@ -16,7 +16,7 @@
         { "code": "MSC605", "name": "Elective I", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/msc-csit-sem1.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 2,
@@ -29,7 +29,7 @@
         { "code": "MSC655", "name": "Elective II", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/msc-csit-sem2.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 3,
@@ -42,7 +42,7 @@
         { "code": "MSC705", "name": "Elective III", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/msc-csit-sem3.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 4,
@@ -51,7 +51,7 @@
         { "code": "MSC751", "name": "Thesis", "credit": 15 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/msc-csit-sem4.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     }
   ],
   "electives": [

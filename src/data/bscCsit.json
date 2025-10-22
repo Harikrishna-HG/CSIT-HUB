@@ -16,7 +16,7 @@
         { "code": "PHY113", "name": "Physics", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bsc-csit-sem1.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 2,
@@ -29,7 +29,7 @@
         { "code": "STA164", "name": "Statistics I", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bsc-csit-sem2.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 3,
@@ -42,7 +42,7 @@
         { "code": "STA210", "name": "Statistics II", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bsc-csit-sem3.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 4,
@@ -55,7 +55,7 @@
         { "code": "CSC261", "name": "Theory of Computation", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bsc-csit-sem4.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 5,
@@ -69,7 +69,7 @@
         { "code": "CSC308", "name": "Multimedia Computing", "credit": 3 }
       ],
       "totalCredits": 18,
-      "downloadLink": "/syllabi/bsc-csit-sem5.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 6,
@@ -83,7 +83,7 @@
         { "code": "CSC362", "name": "Internship", "credit": 3 }
       ],
       "totalCredits": 18,
-      "downloadLink": "/syllabi/bsc-csit-sem6.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 7,
@@ -96,7 +96,7 @@
         { "code": "CSC413", "name": "NET Centric Computing", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bsc-csit-sem7.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     },
     {
       "id": 8,
@@ -109,7 +109,7 @@
         { "code": "CSC465", "name": "Project Work", "credit": 3 }
       ],
       "totalCredits": 15,
-      "downloadLink": "/syllabi/bsc-csit-sem8.pdf"
+      "downloadLink": "https://cdc.fwu.edu.np/syllabus/Science.html"
     }
   ]
 }
