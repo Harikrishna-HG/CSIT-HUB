@@ -25,7 +25,7 @@ function App() {
 
   return (
     <HelmetProvider>
-      <Router>
+      <Router basename="/CSIT-HUB">
         <div className="flex flex-col min-h-screen">
           <Navbar />
           <main className="flex-grow">
