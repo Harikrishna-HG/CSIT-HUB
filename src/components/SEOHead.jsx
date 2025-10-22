@@ -8,7 +8,7 @@ const SEOHead = ({
   ogType = 'website',
   canonicalUrl
 }) => {
-  const siteUrl = 'https://csithub-fwu.edu.np'; // Update with actual domain
+  const siteUrl = 'https://harikrishna-hg.github.io/CSIT-HUB'; // Change to custom domain when ready
   const fullTitle = title ? `${title} | CSIT Hub - Far-Western University` : 'CSIT Hub | Far-Western University';
   const fullCanonicalUrl = canonicalUrl ? `${siteUrl}${canonicalUrl}` : siteUrl;
 

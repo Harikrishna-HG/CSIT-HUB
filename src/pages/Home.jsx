@@ -42,8 +42,8 @@ const Home = () => {
     <>
       <SEOHead
         title="Home"
-        description="CSIT Hub - Your comprehensive resource for BSc.CSIT, BIT, and MSc.CSIT syllabi, updates, and academic information from the Central Department of CSIT, Far-Western University."
-        keywords="BSc.CSIT FWU, BIT FWU, MSc.CSIT FWU, Far-Western University CSIT, CSIT syllabus Nepal, Computer Science Far-Western University, FWU CSIT Department"
+        description="CSIT Hub - Complete BSc.CSIT, BIT, and MSc.CSIT syllabus from Far-Western University (FWU). Download official syllabus, check updates, and get all academic information from Central Department of CSIT, Far-Western University Nepal."
+        keywords="CSIT syllabus, FWU syllabus, Far Western University CSIT, BSc CSIT syllabus FWU, BIT syllabus FWU, MSc CSIT syllabus, CSIT Hub, Far Western University syllabus, CSIT course FWU, computer science syllabus Nepal, FWU CSIT department, BSc CSIT Nepal, BIT Nepal, MSc CSIT Nepal, CSIT notes FWU, Far Western University courses, CSIT curriculum Nepal, computer science degree Nepal, IT courses Nepal, programming courses Nepal, software engineering Nepal, BSc computer science, Bachelor CSIT, Master CSIT, CSIT admission FWU, CSIT entrance preparation, computer application Nepal, information technology degree, BSc IT Nepal, computer science and information technology, CSIT subjects, programming syllabus, database management syllabus, web technology course, artificial intelligence course, machine learning syllabus, data structure algorithm, computer network syllabus, operating system course, software engineering syllabus, Java programming course, C programming syllabus, Python course Nepal, data science Nepal, cybersecurity course, cloud computing syllabus, mobile app development, CSIT career Nepal, IT jobs Nepal, software developer Nepal, tech education Nepal, Tribhuvan University CSIT, TU CSIT syllabus, Nepal CSIT colleges, best CSIT college Nepal, CSIT notes download, CSIT books Nepal, CSIT study material, semester wise syllabus, CSIT question bank, past questions CSIT, CSIT model questions, CSIT exam preparation"
         canonicalUrl="/"
       />
 
