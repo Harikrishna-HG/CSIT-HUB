@@ -13,10 +13,16 @@ export const initAnalytics = (enabled = false) => {
   analyticsEnabled = enabled;
   
   if (analyticsEnabled && typeof window !== 'undefined') {
-    // Initialize Google Analytics 4 if you have a measurement ID
-    // window.gtag('config', 'G-XXXXXXXXXX');
-    
-    console.log('Analytics initialized');
+    // Initialize Google Analytics 4
+    // TODO: Replace G-XXXXXXXXXX with your actual Measurement ID
+    if (window.gtag) {
+      window.gtag('config', 'G-F2TEQN085K');
+      console.log('✅ Analytics initialized with Google Analytics 4');
+    } else {
+      console.log('⚠️ Google Analytics not loaded yet. Make sure script is in index.html');
+    }
+  } else {
+    console.log('❌ Analytics disabled (user declined cookies)');
   }
 };
 
